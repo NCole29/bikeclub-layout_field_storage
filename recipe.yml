@@ -1,0 +1,12 @@
+name: 'Layout field storage'
+description: 'Install Layout Builder field storage used by Basic Page, Event, Ride, and Recurring ride.'
+type: 'Field storage'
+install:
+# Core
+  - layout_builder
+  - layout_discovery
+  - node
+# Contrib
+  - layout_builder_admin_theme
+  - layout_builder_restrictions
+  

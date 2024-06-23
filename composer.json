@@ -1,0 +1,18 @@
+{
+    "name": "bikeclub/bikeclub-layout_field_storage",
+    "description": "Installs Layout Builder and Layout Builder Restrictions.",
+    "keywords": ["recipe", "Paragraphs"],
+    "type": "drupal-recipe",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Nancy Cole",
+            "homepage": "https://bikeclubsites.com",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/layout_builder_admin_theme": "^2.0",
+        "drupal/layout_builder_restrictions": "^2.0"
+    }
+}
