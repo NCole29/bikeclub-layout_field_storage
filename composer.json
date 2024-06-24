@@ -13,6 +13,7 @@
     ],
     "require": {
         "drupal/layout_builder_admin_theme": "^2.0",
-        "drupal/layout_builder_restrictions": "^2.0"
+        "drupal/layout_builder_restrictions": "^2.0",
+        "drupal/paragraphs": "^1.0"
     }
 }

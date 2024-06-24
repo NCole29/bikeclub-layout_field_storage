@@ -9,4 +9,5 @@ install:
 # Contrib
   - layout_builder_admin_theme
   - layout_builder_restrictions
+  - paragraphs
   
