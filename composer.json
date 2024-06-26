@@ -1,6 +1,6 @@
 {
     "name": "bikeclub/bikeclub-layout_field_storage",
-    "description": "Installs Layout Builder and Layout Builder Restrictions.",
+    "description": "Installs Layout Builder field storage and Layout Builder Restrictions.",
     "keywords": ["recipe", "Paragraphs"],
     "type": "drupal-recipe",
     "license": "GPL-2.0-or-later",

@@ -1,5 +1,5 @@
 name: 'Layout field storage'
-description: 'Install Layout Builder field storage used by Basic Page, Event, Ride, and Recurring ride.'
+description: 'Installs Layout Builder field storage and Layout Builder Restrictions.'
 type: 'Field storage'
 install:
 # Core
